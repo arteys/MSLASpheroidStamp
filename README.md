@@ -1,2 +1,4 @@
 # MSLASpheroidStamp
-Fabrication of cell spheroids using MSLA printer printed stamps and molds.
+WORK IN PROGRESS
+
+But you can check 3d models 
