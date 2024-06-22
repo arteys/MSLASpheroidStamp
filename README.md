@@ -35,4 +35,4 @@ https://github.com/arteys/MSLASpheroidStamp/assets/7783671/63acb3b1-17a5-44c3-86
 #  Reference
 https://www.biorxiv.org/content/10.1101/2024.05.12.593682v1
 
-# Aknolegments
+# Acknolegments
