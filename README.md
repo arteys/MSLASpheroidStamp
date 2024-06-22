@@ -10,6 +10,14 @@ What you intend in CAD (blue), what the slicer decides (red) and what you get (g
 
 But you can check 3d models 
 
+# MSLASpheroidStamp overview
+## Stamps
+## Molds
+![96 well stamp](https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/96%20well%20stamp%20sketch.png?raw=true)
+
+![Petri dish stamp](https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Petri%20dish%20stamp%20sketch.png?raw=true)
+
+
 
 # Instructions
 
