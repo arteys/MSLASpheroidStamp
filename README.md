@@ -1,4 +1,6 @@
 # MSLASpheroidStamp
+
+# Introduction
 WORK IN PROGRESS
 
 
@@ -11,6 +13,9 @@ But you can check 3d models
 
 # Instructions
 
+## MSLA part processing
+## Silicone mold making
+## Agarose mold making
 ## Stamp extracting
 
 
