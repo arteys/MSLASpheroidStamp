@@ -13,7 +13,9 @@ But you can check 3d models
 
 ## Stamp extracting
 
-https://github.com/arteys/MSLASpheroidStamp/Readme files/Videos/Stamp extracting.mp4
+<video src="https://github.com/arteys/MSLASpheroidStamp/Readme files/Videos/Stamp extracting.mp4" width="320" height="240" controls></video>
+
+
 
 #  Reference
 https://www.biorxiv.org/content/10.1101/2024.05.12.593682v1
