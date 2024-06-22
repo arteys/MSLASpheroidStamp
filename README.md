@@ -16,7 +16,7 @@ But you can check 3d models
 ## MSLA part processing
 ## Silicone mold making
 ## Agarose mold making
-## Stamp extracting
+### Stamp extracting
 
 
 https://github.com/arteys/MSLASpheroidStamp/assets/7783671/63acb3b1-17a5-44c3-86e2-7b8f0d8d8371
@@ -26,3 +26,5 @@ https://github.com/arteys/MSLASpheroidStamp/assets/7783671/63acb3b1-17a5-44c3-86
 
 #  Reference
 https://www.biorxiv.org/content/10.1101/2024.05.12.593682v1
+
+# Aknolegments
