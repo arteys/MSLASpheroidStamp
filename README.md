@@ -9,5 +9,11 @@ What you intend in CAD (blue), what the slicer decides (red) and what you get (g
 But you can check 3d models 
 
 
+# Instructions
+
+## Stamp extracting
+
+https://github.com/arteys/MSLASpheroidStamp/Readme files/Videos/Stamp extracting.mp4
+
 #  Reference
 https://www.biorxiv.org/content/10.1101/2024.05.12.593682v1
