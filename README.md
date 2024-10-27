@@ -6,7 +6,10 @@ WORK IN PROGRESS
 But you can check 3d models 
 
 # MSLASpheroidStamp overview
+
 ## Molds
+
+![Microwell mold in 6-well plate](https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Mold.png)
 
 
 https://github.com/user-attachments/assets/4c41e45f-066e-499b-a9de-289ee6c0a233
@@ -28,13 +31,8 @@ _Process of removing bubbles from the mold_
 ![Petri dish stamp](https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Petri%20dish%20stamp%20sketch.png?raw=true)
 
 
+![Microwell mold in 96-well plate](https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/96%20well.png)
 
-# Instructions
-
-## MSLA part processing
-## Silicone mold making
-## Agarose mold making
-### Stamp extracting
 
 
 https://github.com/arteys/MSLASpheroidStamp/assets/7783671/63acb3b1-17a5-44c3-86e2-7b8f0d8d8371
