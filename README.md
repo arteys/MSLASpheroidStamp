@@ -16,6 +16,8 @@ _Process of filling mold with agarose_
 
 
 https://github.com/user-attachments/assets/55440b95-25c6-4f36-a674-90fb6afe1f3b
+
+
 _Process of removing bubbles from the mold_
 
 
