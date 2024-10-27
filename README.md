@@ -25,6 +25,14 @@ _Process of removing bubbles from the mold_
 
 
 
+https://github.com/user-attachments/assets/c4b449f8-795c-471a-a6a9-0f1629ddc110
+
+
+
+_Extracting of the agarose mold_
+
+
+
 ## Stamps
 ![96 well stamp](https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/96%20well%20stamp%20sketch.png?raw=true)
 
