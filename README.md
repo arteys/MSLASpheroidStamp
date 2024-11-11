@@ -7,6 +7,13 @@ But you can check 3d models
 
 # MSLASpheroidStamp overview
 
+# Models list
+
+
+
+![Z-offset illustration](https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Single%20well%20offset%20illustration.png)
+Unfortunately the standards for culture plastic sizes are a joke. Especially for depth, so I attach die models with different z-offset to match to specific dishes/plates
+
 ## Molds
 
 ![Microwell mold in 6-well plate](https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Mold.png)
