@@ -9,6 +9,8 @@ But you can check 3d models
 
 # Models list
 
+Unfortunately the stl files are too big for github, so they are on [printables.com](https://www.printables.com/)
+
 ### Z-offset 
 
 
