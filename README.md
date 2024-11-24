@@ -102,7 +102,7 @@ You will need standard equipment and supplies for working with cell cultures, as
 
 
 
-<img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/96%20well.png" width=75% height=75%>
+<img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/96%20well.png" width=25% height=25%>
 
 
 
