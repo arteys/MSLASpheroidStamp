@@ -49,7 +49,7 @@ _Extracting of the agarose mold_
 
 <img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/96%20well%20stamp%20sketch.png" width=75% height=75%>
 
-<img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Petri%20dish%20stamp%20sketch.png" width=75% height=75%>
+<img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Petri%20dish%20stamp%20sketch.png" width=50% height=50%>
 
 ### 96-plate microwell production
 
@@ -102,7 +102,7 @@ You will need standard equipment and supplies for working with cell cultures, as
 
 
 
-<img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/96%20well.png" width=25% height=25%>
+<img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/96%20well.png" width=50% height=50%>
 
 
 
