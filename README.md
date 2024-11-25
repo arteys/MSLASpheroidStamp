@@ -14,20 +14,65 @@ Unfortunately the stl files are too big for github, so they are on [printables.c
 ### Z-offset 
 
 
-
 <img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Single%20well%20offset%20illustration.png" width=25% height=25%>
 
 Unfortunately the standards for culture plastic sizes are a joke. Especially for depth, so I attach stamp models with different z-offset to match to specific dishes/plates
 
-## Molds
+# Molds
 
-### 6-plate/dish microwell production
+## 6-plate/dish microwell production
 
-#### Mold prodoctuion
-##### The choice of silicone
-This is the tricky part. Staying in the ideology of accessibility and DIY, I used the usual model two-component silicone available in the hobby store. Two-component platinum-based silicones definitely do not work - there is some kind of reaction between the silicone and the printed part and the silicone does not polymerize. Tin-based silicones remain, they generally work well. However, not all, I have met at least one that sticks to MSLA printed parts absolutely tightly and then it is impossible to separate the finished inserts. Accordingly, if someone decides to make such inserts, silicone will have to be selected empirically. I didn't use any chemical separators because I didn't want to add their remnants to the biological medium.
+### Silicone Mold prodoctuion
+#### The choice of silicone
+This is the tricky part. Staying in the ideology of accessibility and DIY, I used the usual model two-component silicone available in the hobby store. Two-component platinum-based silicones definitely do not work - there is some kind of reaction between the silicone and the printed part and the silicone does not polymerize. Tin-based silicones remain, they generally work well. However, not all, I have met at least one that sticks to MSLA printed parts tightly and then it is impossible to separate the finished molds. Accordingly, if someone decides to make such molds, silicone will have to be selected empirically. And I didn't use any chemical separators because I didn't want to add their remnants to the biological medium.
 
-<img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Mold.png" width=50% height=50%>
+#### Tools and equipment
+
+- Vacuum chamber
+- Two-component silicone (that you are sure about)
+- Dye for silicone (with it is better to see how well mixed silicone, as well as you can use different colours for colour coding
+- Disposable wooden or plastic spatulas.
+- Wipes and gloves (this process will inevitably be messy)
+
+#### Process
+The total volume of silicone depends on how many moulds you make at a time. Also silicone is quite hard to transfer quantitatively, it's a skill. Therefore, it is better to take with reserve. You will need two portions of silicone. The first portion is about ten grams per mould, the second twenty. 
+
+1. Mix the first (smaller) portion of silicone with the hardener and dye 
+2. Transfer to the moulds and spread evenly with the spatula, making sure that the silicone covers the entire area evenly.
+3. Transfer the moulds to the vacuum chamber and evacuate, then let air in and evacuate again. Leave under vacuum for 3-5 minutes
+4. Mix the second batch of silicone with hardener and dye (another colour can be used)
+5. Release air, take the moulds out of the vacuum chamber and pour the second portion of silicone into them
+6. Remove the excess with a spatula
+7. Leave for 24 hours (or as recommended by the silicone manufacturer) until curing
+
+### Gel mold productuion
+#### Before starting work
+Nothing is sterile by default or even intended to be. In the laminar box, it is highly recommended to treat the molds and stamps with 70% isopropyl or ethyl alcohol before the first use. You can use a spray bottle, but it is better to treat them by immersing them in a alcohol for a few minutes. 
+I would not advise autoclaving, and moulds and stamps, in principle, should withstand such treatment, but without guarantees. 
+It is most convenient to store it in the box of tips, this box can also be treated with alcohol and stored inside the laminar box while working. 
+
+
+
+#### Tools and equipment
+
+- Laminar flow cabinet
+- Microwave or other way to melt the gel
+- Molds
+- Plastic pasteur pipettes (2-5 ml)
+- Tips for 10-200 ul pipette
+- Agar/agarose solution with a concentration of about 1-3% mass. The minimum volume required per plate is about 5 ml, but it is better to melt 10-20 so that the melted gel in the bath does not solidify so quickly.
+
+#### Process
+1.	Melt the agar/agarose solution, preferably bring to a boil 
+2.	Using a paster pipette, transfer the gel to the silicone moulds, spreading it gently over the surface, large bubbles can be sucked up with the pipette
+3. If you use a silicone mould with a small size of micropins (300 um), air bubbles often get stuck on them, which spoil the agarose mould. To get rid of them mould should be ‘ironed’ for example with a 10-200 tip (Watch the video below). 
+4. agarose hardens for 10-20 minutes, after which the mould can be carefully removed from the mould and transferred to a plate cell 6-well plate cell or a suitable dish.
+5.	Agarose moulds are ready for cell seeding
+
+
+
+
+<img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Mold.png" width=60% height=60%>
 
 
 https://github.com/user-attachments/assets/4c41e45f-066e-499b-a9de-289ee6c0a233
@@ -46,9 +91,17 @@ _Process of removing bubbles from the mold_
 https://github.com/user-attachments/assets/c4b449f8-795c-471a-a6a9-0f1629ddc110
 
 
-
 _Extracting of the agarose mold_
 
+ 
+#### Cell seeding
+1.  Detach the cells using the laboratory procedure. 
+2.	Count the cells in suspension and dilute to the required number per microwell. About 300 µl can be poured into the recess of the agarose mould. 
+3.	Transfer the cell suspension into the recess of the mould
+4.	Allow 15-30 minutes for the cells to settle under gravity.
+5.	Tilt the plate with moulds and carefully remove the medium with excess cells that did not fall into the wells
+6.	Add fresh medium, including the empty space around the mould.
+7.	Place the plates in the incubator until the spheroids consolidate for 24 hours
 
 
 ## Stamps
@@ -75,9 +128,9 @@ It is most convenient to store it in the box of tips, this box can also be treat
 - Tub for multichannel pipette
 - Tips for pipette
 - 96-well plate  
-- Agar/agarose solution with a concentration of about 1-3% mass per cent. The minimum volume required per plate is about 5 ml, but it is better to melt 10-20 so that the melted gel in the bath does not solidify so quickly.
+- Agar/agarose solution with a concentration of about 1-3% mass. The minimum volume required per plate is about 5 ml, but it is better to melt 10-20 so that the melted gel in the bath does not solidify so quickly.
 
-#### Fabrication of microwells
+#### Process
 
 Working with molten agar/agarose requires care and, more importantly, speed, so it is better to prepare everything within reach in advance
 1. Set the pipette to 50 µl 
@@ -108,13 +161,7 @@ You will need standard equipment and supplies for working with cell cultures, as
 
 
 
-
-
 <img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/96%20well.png" width=50% height=50%>
-
-
-
-
 
 
 
