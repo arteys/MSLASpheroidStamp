@@ -106,10 +106,6 @@ _Extracting of the agarose mold_
 
 ## Stamps
 
-<img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/96%20well%20stamp%20sketch.png" width=75% height=75%>
-
-<img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Petri%20dish%20stamp%20sketch.png" width=50% height=50%>
-
 
 
 ### 96-plate microwell production
