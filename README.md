@@ -51,6 +51,12 @@ _Extracting of the agarose mold_
 
 <img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Petri%20dish%20stamp%20sketch.png" width=50% height=50%>
 
+### 6-plate/dish microwell production
+
+#### Mold prodoctuion
+##### The choice of silicone
+This is the tricky part. Staying in the ideology of accessibility and DIY, I used the usual model two-component silicone available in the hobby store. Two-component platinum-based silicones definitely do not work - there is some kind of reaction between the silicone and the printed part and the silicone does not polymerize. Tin-based silicones remain, they generally work well. However, not all, I have met at least one that sticks to MSLA printed parts absolutely tightly and then it is impossible to separate the finished inserts. Accordingly, if someone decides to make such inserts, silicone will have to be selected empirically. I didn't use any chemical separators because I didn't want to add their remnants to the biological medium.
+
 ### 96-plate microwell production
 
 #### Before starting work
