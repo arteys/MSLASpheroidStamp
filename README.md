@@ -138,6 +138,10 @@ Working with molten agar/agarose requires care and, more importantly, speed, so 
 7.	Remove the stamps. This is the most critical step. It is most convenient to turn the plates with the short part towards yourself and remove the stamps with two hands from the sides. Gently rock the stamp back and forth before removal. If the gel concentration is optimal and the gel is fully cured, the stamp should come out clean and free of gel pieces and the microwells should remain intact inside the tablet. A few wells per plate usually come with bubbles, it's a matter of luck and it's hard to do anything about it. A video of the extraction process is shown below
 8.	The microwells are ready for seeding of cells
 
+https://github.com/arteys/MSLASpheroidStamp/assets/7783671/63acb3b1-17a5-44c3-86e2-7b8f0d8d8371
+
+_Process of extracting the stamp from the plate_
+
 #### Cell seeding
 
 Before conducting a serious experiment, it is best to determine the optimal number of cells needed to form spheroids. They should not be too many or the extra cells in the well will form spheroids of uncontrolled size outside the microwells. The figure below shows spheroids formed from HeLa with different numbers of cells per cell. In this case about 1000-500 cells per microwell is optimal, when dense spheroids are formed after a day and there are practically no cells outside the cells. 
@@ -161,9 +165,7 @@ You will need standard equipment and supplies for working with cell cultures, as
 
 
 
-https://github.com/arteys/MSLASpheroidStamp/assets/7783671/63acb3b1-17a5-44c3-86e2-7b8f0d8d8371
 
-_Process of extracting the stamp from the plate_
 
 
 
