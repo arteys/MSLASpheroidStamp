@@ -203,7 +203,7 @@ You will need standard equipment and supplies for working with cell cultures, as
 3.	Using the pipette, transfer the cell suspension into the plate
 4.	Place the dishes in the incubator until the spheroids consolidate for 24 hours
 
-<img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Stamp%20glass%20bottom%20dish.png" width=50% height=50%>
+<img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Stamp%20glass%20bottom%20dish.png" width=75% height=75%>
 
 
 
