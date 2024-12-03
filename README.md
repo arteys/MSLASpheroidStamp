@@ -66,7 +66,7 @@ It is most convenient to store it in the box of tips, this box can also be treat
 1.	Melt the agar/agarose solution, preferably bring to a boil 
 2.	Using a paster pipette, transfer the gel to the silicone moulds, spreading it gently over the surface, large bubbles can be sucked up with the pipette
 3. If you use a silicone mould with a small size of micropins (300 um), air bubbles often get stuck on them, which spoil the agarose mould. To get rid of them mould should be ‘ironed’ for example with a 10-200 tip (Watch the video below). 
-4. agarose hardens for 10-20 minutes, after which the mould can be carefully removed from the mould and transferred to a plate cell 6-well plate cell or a suitable dish.
+4. Agarose hardens for 10-20 minutes, after which the mould can be carefully removed from the mould and transferred to a plate cell 6-well plate cell or a suitable dish.
 5.	Agarose moulds are ready for cell seeding
 
 
@@ -149,7 +149,7 @@ Before conducting a serious experiment, it is best to determine the optimal numb
 You will need standard equipment and supplies for working with cell cultures, as well as a microwell plate made in the previous step, and:
 - Centrifuge or vortex with a plate rotor (optional)
 
-1.  Detach the cells using the laboratory procedure.  
+1. Detach the cells using the laboratory procedure.  
 2.	Count the cells in suspension and dilute to the required number per microwell. One plate well can be filled with 50 - 100 µl of medium. 
 3.	Transfer the cell suspension to the tub for the multichannel pipette
 4.	Using the multi-channel pipette, transfer the cell suspension into the plate
@@ -164,8 +164,46 @@ You will need standard equipment and supplies for working with cell cultures, as
 <img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/96%20well.png" width=50% height=50%>
 
 
+### Glass bottom dish microwell production
 
+#### Before starting work
+Nothing is sterile by default or even intended to be. In the laminar box, it is highly recommended to treat the molds and stamps with 70% isopropyl or ethyl alcohol before the first use. You can use a spray bottle, but it is better to treat them by immersing them in a alcohol for a few minutes. 
+I would not advise autoclaving, and moulds and stamps, in principle, should withstand such treatment, but without guarantees. 
+It is most convenient to store it in the box of tips, this box can also be treated with alcohol and stored inside the laminar box while working. 
 
+#### Tools and equipment
+
+- Laminar flow cabinet
+- Microwave or other way to melt the gel
+- Stamps
+- Plastic pasteur pipettes (2-5 ml)
+- Tips for pipette
+- Glass bottom dishes plate  
+- Agar/agarose solution with a concentration of about 1-3% mass. The minimum volume required per dish is about 1 ml, but it is better to melt 10-20 so that the melted gel in the bath does not solidify so quickly.
+
+#### Process
+
+Working with molten agar/agarose requires care and, more importantly, speed, so it is better to prepare everything within reach in advance
+1.	Melt the agar/agarose solution, preferably bring it to a boil 
+2.	In a laminar flow cabinet, pour the agarose into the tub for the multichannel pipette
+3.	Use the pipette to transfer 1-2 ml into the dish of the plate and immediately insert a stamp. Make sure that the stamp is fully inserted (there is a tab on it centring it in the well, make sure it is inserted)
+4.	Wait for the gel to solidify (10-15 minutes, depending on agar/agarose and room temperature)
+5.	Remove the stamp. 
+6.	The microwells are ready for seeding of cells
+
+#### Cell seeding
+
+Before conducting a serious experiment, it is best to determine the optimal number of cells needed to form spheroids. They should not be too many or the extra cells in the well will form spheroids of uncontrolled size outside the microwells. The figure below shows spheroids formed from HeLa with different numbers of cells per cell. In this case about 1000-500 cells per microwell is optimal, when dense spheroids are formed after a day and there are practically no cells outside the cells. 
+
+You will need standard equipment and supplies for working with cell cultures, as well as a microwell plate made in the previous step, and:
+- Centrifuge or vortex with a plate rotor (optional)
+
+1. Detach the cells using the laboratory procedure.  
+2.	Count the cells in suspension and dilute to the required number per microwell. One dish can be filled with 200 - 400 µl of medium. 
+3.	Using the pipette, transfer the cell suspension into the plate
+4.	Place the dishes in the incubator until the spheroids consolidate for 24 hours
+
+<img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Stamp%20glass%20bottom%20dish.png" width=50% height=50%>
 
 
 
