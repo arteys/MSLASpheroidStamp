@@ -35,20 +35,20 @@ This is the tricky part. Staying in the ideology of accessibility and DIY, I use
 - Wipes and gloves (this process will inevitably be messy)
 
 #### Process
-The total volume of silicone depends on how many moulds you make at a time. Also silicone is quite hard to transfer quantitatively, it's a skill. Therefore, it is better to take with reserve. You will need two portions of silicone. The first portion is about ten grams per mould, the second twenty. 
+The total volume of silicone depends on how many molds you make at a time. Also silicone is quite hard to transfer quantitatively, it's a skill. Therefore, it is better to take with reserve. You will need two portions of silicone. The first portion is about ten grams per mold, the second twenty. 
 
 1. Mix the first (smaller) portion of silicone with the hardener and dye 
-2. Transfer to the moulds and spread evenly with the spatula, making sure that the silicone covers the entire area evenly.
-3. Transfer the moulds to the vacuum chamber and evacuate, then let air in and evacuate again. Leave under vacuum for 3-5 minutes
+2. Transfer to the molds and spread evenly with the spatula, making sure that the silicone covers the entire area evenly.
+3. Transfer the molds to the vacuum chamber and evacuate, then let air in and evacuate again. Leave under vacuum for 3-5 minutes
 4. Mix the second batch of silicone with hardener and dye (another colour can be used)
-5. Release air, take the moulds out of the vacuum chamber and pour the second portion of silicone into them
+5. Release air, take the molds out of the vacuum chamber and pour the second portion of silicone into them
 6. Remove the excess with a spatula
 7. Leave for 24 hours (or as recommended by the silicone manufacturer) until curing
 
 ### Gel mold productuion
 #### Before starting work
 Nothing is sterile by default or even intended to be. In the laminar box, it is highly recommended to treat the molds and stamps with 70% isopropyl or ethyl alcohol before the first use. You can use a spray bottle, but it is better to treat them by immersing them in a alcohol for a few minutes. 
-I would not advise autoclaving, and moulds and stamps, in principle, should withstand such treatment, but without guarantees. 
+I would not advise autoclaving, and molds and stamps, in principle, should withstand such treatment, but without guarantees. 
 It is most convenient to store it in the box of tips, this box can also be treated with alcohol and stored inside the laminar box while working. 
 
 
@@ -64,10 +64,10 @@ It is most convenient to store it in the box of tips, this box can also be treat
 
 #### Process
 1.	Melt the agar/agarose solution, preferably bring to a boil 
-2.	Using a paster pipette, transfer the gel to the silicone moulds, spreading it gently over the surface, large bubbles can be sucked up with the pipette
-3. If you use a silicone mould with a small size of micropins (300 um), air bubbles often get stuck on them, which spoil the agarose mould. To get rid of them mould should be ‘ironed’ for example with a 10-200 tip (Watch the video below). 
-4. Agarose hardens for 10-20 minutes, after which the mould can be carefully removed from the mould and transferred to a plate cell 6-well plate cell or a suitable dish.
-5.	Agarose moulds are ready for cell seeding
+2.	Using a paster pipette, transfer the gel to the silicone molds, spreading it gently over the surface, large bubbles can be sucked up with the pipette
+3. If you use a silicone mold with a small size of micropins (300 um), air bubbles often get stuck on them, which spoil the agarose mold. To get rid of them mold should be ‘ironed’ for example with a 10-200 tip (Watch the video below). 
+4. Agarose hardens for 10-20 minutes, after which the mold can be carefully removed from the mold and transferred to a plate cell 6-well plate cell or a suitable dish.
+5.	Agarose molds are ready for cell seeding
 
 
 
@@ -96,11 +96,11 @@ _Extracting of the agarose mold_
  
 #### Cell seeding
 1.  Detach the cells using the laboratory procedure. 
-2.	Count the cells in suspension and dilute to the required number per microwell. About 300 µl can be poured into the recess of the agarose mould. 
-3.	Transfer the cell suspension into the recess of the mould
+2.	Count the cells in suspension and dilute to the required number per microwell. About 300 µl can be poured into the recess of the agarose mold. 
+3.	Transfer the cell suspension into the recess of the mold
 4.	Allow 15-30 minutes for the cells to settle under gravity.
-5.	Tilt the plate with moulds and carefully remove the medium with excess cells that did not fall into the wells
-6.	Add fresh medium, including the empty space around the mould.
+5.	Tilt the plate with molds and carefully remove the medium with excess cells that did not fall into the wells
+6.	Add fresh medium, including the empty space around the mold.
 7.	Place the plates in the incubator until the spheroids consolidate for 24 hours
 
 
@@ -112,7 +112,7 @@ _Extracting of the agarose mold_
 
 #### Before starting work
 Nothing is sterile by default or even intended to be. In the laminar box, it is highly recommended to treat the molds and stamps with 70% isopropyl or ethyl alcohol before the first use. You can use a spray bottle, but it is better to treat them by immersing them in a alcohol for a few minutes. 
-I would not advise autoclaving, and moulds and stamps, in principle, should withstand such treatment, but without guarantees. 
+I would not advise autoclaving, and molds and stamps, in principle, should withstand such treatment, but without guarantees. 
 It is most convenient to store it in the box of tips, this box can also be treated with alcohol and stored inside the laminar box while working. 
 
 #### Tools and equipment
@@ -168,7 +168,7 @@ You will need standard equipment and supplies for working with cell cultures, as
 
 #### Before starting work
 Nothing is sterile by default or even intended to be. In the laminar box, it is highly recommended to treat the molds and stamps with 70% isopropyl or ethyl alcohol before the first use. You can use a spray bottle, but it is better to treat them by immersing them in a alcohol for a few minutes. 
-I would not advise autoclaving, and moulds and stamps, in principle, should withstand such treatment, but without guarantees. 
+I would not advise autoclaving, and molds and stamps, in principle, should withstand such treatment, but without guarantees. 
 It is most convenient to store it in the box of tips, this box can also be treated with alcohol and stored inside the laminar box while working. 
 
 #### Tools and equipment
