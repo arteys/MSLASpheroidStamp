@@ -16,7 +16,7 @@ Unfortunately the stl files are too big for github, so they are on [printables.c
 
 <img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Single%20well%20offset%20illustration.png" width=25% height=25%>
 
-Unfortunately the standards for culture plastic sizes are a joke. Especially for depth, so I attach stamp models with different z-offset to match to specific dishes/plates
+The standards for culture plastic sizes are a joke. Especially for depth, so I attach stamp models with different z-offset to match to specific plates
 
 # Molds
 
