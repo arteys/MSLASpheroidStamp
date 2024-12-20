@@ -5,6 +5,15 @@ WORK IN PROGRESS
 
 But you can check 3d models 
 
+
+
+<img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Mold%20and%20stamp.png" width=40% height=40%>
+
+
+<img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Different%20plastic.png" width=80% height=80%>
+
+
+
 # MSLASpheroidStamp overview
 
 # Models list
