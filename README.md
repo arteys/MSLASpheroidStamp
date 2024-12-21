@@ -5,7 +5,7 @@
 Cell spheroids, everyone! Seriously, every cell biologist needs spheroids. It's fun and interesting. Okay, maybe not every one, but if you're reading this....
 This project is about how you can use an MSLA 3d printer (and, in some cases) two-component silicone to make microwells in an agarose (or even agar) gel poured into a regular culture plastic. And we are not talking about some kind of multiphoton superprinter, the first MSLA for $200 will work fine. 
 
-I propose two approaches: to use silicone moulds (moulds for casting which can also be printed), in which agar is poured and further transferred into a tablet/flask, or to print a stamp, with which microwells are made directly in the gel poured into the dish/plate. 
+I propose two approaches: to use silicone molds (molds for casting which can also be printed), in which agar is poured and further transferred into a tablet/flask, or to print a stamp, with which microwells are made directly in the gel poured into the dish/plate. 
 
 <img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Mold%20and%20stamp.png" width=40% height=40%>
 
@@ -18,6 +18,14 @@ However, in the literature, the process of making such things is either terribly
 <img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Different%20plastic.png" width=80% height=80%>
 
 Microwells in a 96-well plate (A), glass-bottom dish mold for confocal microscopy (B), 6-well plate mold (C) and twin megamold for T-75 culture vials with 28564 microwells (D).
+
+
+
+If everything is done correctly (and it's really not difficult) you can get such cuties as on the picture below. And then do all sorts of strange things with them. 
+
+<img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Different%20cells.png" width=80% height=80%>
+Spheroids made from cells of different cultures in microwells in the wells of a 96-well plate. Further they will be poisoned (at least some of them) with all sorts of poisons under the sound of laughter, as befits a mad scientist. 
+
 
 # MSLASpheroidStamp overview
 
