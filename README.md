@@ -3,7 +3,7 @@
 # Introduction
 
 Cell spheroids, everyone! Seriously, every cell biologist needs spheroids. It's fun and interesting. Okay, maybe not every one, but if you're reading this....
-This project is about how you can use an MSLA 3d printer (and, in some cases) two-component silicone to make microwells in an agarose (or even agar) gel poured into a regular culture plastic. And we are not talking about some kind of multiphoton superprinter, the first MSLA for $200 will work fine. 
+This project is about how you can use an MSLA 3d printer (and, in some cases) two-component silicone to make microwells in an agarose (or even agar) gel poured into a regular culture plastic. And we are not talking about some kind of multiphoton superprinter, the MSLA for $200 from the Amazon/Aliexpress/etc will work fine. 
 
 I propose two approaches: to use silicone molds (molds for casting which can also be printed), in which agar is poured and further transferred into a tablet/flask, or to print a stamp, with which microwells are made directly in the gel poured into the dish/plate. 
 
