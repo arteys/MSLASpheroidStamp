@@ -6,13 +6,14 @@ WORK IN PROGRESS
 But you can check 3d models 
 
 
-
 <img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Mold%20and%20stamp.png" width=40% height=40%>
+
+Silicone mold for 6-well plates (A) and stamp for 96-well plates (B)
 
 
 <img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Different%20plastic.png" width=80% height=80%>
 
-
+Microwells in a 96-well plate (A), glass-bottom dish mold for confocal microscopy (B), 6-well plate mold (C) and twin megamold for T-75 culture vials with 28564 microwells (D).
 
 # MSLASpheroidStamp overview
 
