@@ -231,6 +231,6 @@ You will need standard equipment and supplies for working with cell cultures, as
 
 
 #  Reference
-https://www.biorxiv.org/content/10.1101/2024.05.12.593682v1
+https://www.biorxiv.org/content/10.1101/2024.05.12.593682v2
 
 # Acknolegments
