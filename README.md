@@ -224,10 +224,17 @@ You will need standard equipment and supplies for working with cell cultures, as
 
 <img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Stamp%20glass%20bottom%20dish.png" width=75% height=75%>
 
-
+# Reproducibility
+Of course it would be ridiculous to say much about the reproducibility of my methodology, but not to test it. So scientists in other laboratories (not affiliated with the authors of the study), having received stamps, silicone molds and instructions, were able to reproduce the process of stamp printing and spheroids manufacturing. They used other cell cultures, laboratory plastic from other manufacturers, as well as agar and agarose of other brands. Instructions as well as 3d models are available on the project page on GitHub and in the supplement materials
 
 
 #  Reference
 https://www.biorxiv.org/content/10.1101/2024.05.12.593682v2
 
 # Acknolegments
+For testing our methodology and proving its reproducibility, I am grateful to
+Anatoliy Zubritskiy from FRC "Fundamentals for Biotechnology" RAS (Moscow, Russia),
+Kuzmich Alexandra and Yurchenko Ekaterina from Pacific Institute of Bioorganic Chemistry
+RAS (Vladivostok, Russia), Alexandra Dalina from Engelhardt Institute of Molecular Biology
+RAS (Moscow, Russia) and Saida Karshieva from National University of Science and
+Technology MISIS (Moscow, Russia)
