@@ -28,14 +28,17 @@ Spheroids made from cells of different cultures in microwells in the wells of a 
 
 
 
-Unfortunately the stl files are too big for github, so they are on [zenodo.com](https://zenodo.org/records/14562031) and on [Printables](https://www.printables.com/model/1243707-stamps-and-molds-for-mslaspheroidstamp)  
+
 
 ### Z-offset 
-
 
 <img src="https://github.com/arteys/MSLASpheroidStamp/blob/main/Readme%20files/Single%20well%20offset%20illustration.png" width=25% height=25%>
 
 The standards for culture plastic sizes are a joke. Especially for depth, so I attach stamp models with different z-offset to match to specific plates
+
+### Files
+Unfortunately the stl files are too big for github, so they are on [zenodo.com](https://zenodo.org/records/14562031) and on [Printables](https://www.printables.com/model/1243707-stamps-and-molds-for-mslaspheroidstamp)  
+
 
 # Molds
 
