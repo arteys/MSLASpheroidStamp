@@ -28,7 +28,7 @@ Spheroids made from cells of different cultures in microwells in the wells of a 
 
 
 
-Unfortunately the stl files are too big for github, so they are on [zenodo.com](https://zenodo.org/records/14562031)
+Unfortunately the stl files are too big for github, so they are on [zenodo.com](https://zenodo.org/records/14562031) and on [Printables](https://www.printables.com/model/1243707-stamps-and-molds-for-mslaspheroidstamp)  
 
 ### Z-offset 
 
