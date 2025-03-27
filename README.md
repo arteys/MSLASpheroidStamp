@@ -27,7 +27,8 @@ If everything is done correctly (and it's really not difficult) you can get such
 Spheroids made from cells of different cultures in microwells in the wells of a 96-well plate. Further they will be poisoned (at least some of them) with all sorts of poisons under the sound of laughter, as befits a mad scientist. 
 
 
-
+# Files
+Unfortunately the stl files are too big for github, so they are on [zenodo.com](https://zenodo.org/records/14562031) and on [Printables](https://www.printables.com/model/1243707-stamps-and-molds-for-mslaspheroidstamp)  
 
 
 ### Z-offset 
@@ -36,8 +37,7 @@ Spheroids made from cells of different cultures in microwells in the wells of a 
 
 The standards for culture plastic sizes are a joke. Especially for depth, so I attach stamp models with different z-offset to match to specific plates
 
-### Files
-Unfortunately the stl files are too big for github, so they are on [zenodo.com](https://zenodo.org/records/14562031) and on [Printables](https://www.printables.com/model/1243707-stamps-and-molds-for-mslaspheroidstamp)  
+
 
 
 # Molds
