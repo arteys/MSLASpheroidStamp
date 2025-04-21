@@ -232,7 +232,8 @@ Of course it would be ridiculous to say much about the reproducibility of my met
 
 
 #  Reference
-https://www.biorxiv.org/content/10.1101/2024.05.12.593682v2
+Preprint: https://www.biorxiv.org/content/10.1101/2024.05.12.593682v2
+Paper: https://www.sciencedirect.com/science/article/pii/S2405886625000326?dgcid=author
 
 # Acknolegments
 For testing our methodology and proving its reproducibility, I am grateful to
