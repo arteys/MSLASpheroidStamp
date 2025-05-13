@@ -69,15 +69,15 @@ The total volume of silicone depends on how many molds you make at a time. Also 
 
 ### Gel mold productuion
 #### Before starting work
-Nothing is sterile by default or even intended to be. In the laminar box, it is highly recommended to treat the molds and stamps with 70% isopropyl or ethyl alcohol before the first use. You can use a spray bottle, but it is better to treat them by immersing them in a alcohol for a few minutes. 
+Nothing is sterile by default or even intended to be. In the laminar flow hood, it is highly recommended to treat the molds and stamps with 70% isopropyl or ethyl alcohol before the first use. You can use a spray bottle, but it is better to treat them by immersing them in a alcohol for a few minutes. 
 I would not advise autoclaving, and molds and stamps, in principle, should withstand such treatment, but without guarantees. 
-It is most convenient to store it in the box of tips, this box can also be treated with alcohol and stored inside the laminar box while working. 
+It is most convenient to store it in the box of tips, this box can also be treated with alcohol and stored inside the laminar flow hood while working. 
 
 
 
 #### Tools and equipment
 
-- Laminar flow cabinet
+- Laminar flow hood
 - Microwave or other way to melt the gel
 - Molds
 - Plastic pasteur pipettes (2-5 ml)
@@ -133,13 +133,13 @@ _Extracting of the agarose mold_
 ### 96-plate microwell production
 
 #### Before starting work
-Nothing is sterile by default or even intended to be. In the laminar box, it is highly recommended to treat the molds and stamps with 70% isopropyl or ethyl alcohol before the first use. You can use a spray bottle, but it is better to treat them by immersing them in a alcohol for a few minutes. 
+Nothing is sterile by default or even intended to be. In the laminar flow hood, it is highly recommended to treat the molds and stamps with 70% isopropyl or ethyl alcohol before the first use. You can use a spray bottle, but it is better to treat them by immersing them in a alcohol for a few minutes. 
 I would not advise autoclaving, and molds and stamps, in principle, should withstand such treatment, but without guarantees. 
-It is most convenient to store it in the box of tips, this box can also be treated with alcohol and stored inside the laminar box while working. 
+It is most convenient to store it in the box of tips, this box can also be treated with alcohol and stored inside the laminar flow hood while working. 
 
 #### Tools and equipment
 
-- Laminar flow cabinet
+- Laminar flow hood
 - Microwave or other way to melt the gel
 - Stamps - 6 pieces
 - Multichannel pipette (capable of dispensing 50 µl of liquid) - 1 piece
@@ -153,7 +153,7 @@ It is most convenient to store it in the box of tips, this box can also be treat
 Working with molten agar/agarose requires care and, more importantly, speed, so it is better to prepare everything within reach in advance
 1. Set the pipette to 50 µl 
 2.	Melt the agar/agarose solution, preferably bring it to a boil 
-3.	In a laminar flow cabinet, pour the agarose into the tub for the multichannel pipette
+3.	In a laminar flow hood, pour the agarose into the tub for the multichannel pipette
 4.	Use the pipette to transfer 50 µl into the two columns of the plate and immediately place a stamp in these columns. Make sure that the stamp is fully inserted (there is a tab on it centring it in the well, make sure it is inserted). It is necessary to do everything as quickly as possible, so that the gel does not freeze in the spouts of the dispenser
 5.	Pour two more columns, set the stamp, repeat until all the stamps are installed 
 6.	Wait for the gel to solidify (10-15 minutes, depending on agar/agarose and room temperature)
@@ -189,13 +189,13 @@ You will need standard equipment and supplies for working with cell cultures, as
 ### Glass bottom dish microwell production
 
 #### Before starting work
-Nothing is sterile by default or even intended to be. In the laminar box, it is highly recommended to treat the molds and stamps with 70% isopropyl or ethyl alcohol before the first use. You can use a spray bottle, but it is better to treat them by immersing them in a alcohol for a few minutes. 
+Nothing is sterile by default or even intended to be. In the laminar flow hood, it is highly recommended to treat the molds and stamps with 70% isopropyl or ethyl alcohol before the first use. You can use a spray bottle, but it is better to treat them by immersing them in a alcohol for a few minutes. 
 I would not advise autoclaving, and molds and stamps, in principle, should withstand such treatment, but without guarantees. 
-It is most convenient to store it in the box of tips, this box can also be treated with alcohol and stored inside the laminar box while working. 
+It is most convenient to store it in the box of tips, this box can also be treated with alcohol and stored inside the laminar flow hood while working. 
 
 #### Tools and equipment
 
-- Laminar flow cabinet
+- Laminar flow hood
 - Microwave or other way to melt the gel
 - Stamps
 - Plastic pasteur pipettes (2-5 ml)
@@ -207,7 +207,7 @@ It is most convenient to store it in the box of tips, this box can also be treat
 
 Working with molten agar/agarose requires care and, more importantly, speed, so it is better to prepare everything within reach in advance
 1.	Melt the agar/agarose solution, preferably bring it to a boil 
-2.	In a laminar flow cabinet, pour the agarose into the tub for the multichannel pipette
+2.	In a laminar flow hood, pour the agarose into the tub for the multichannel pipette
 3.	Use the pipette to transfer 1-2 ml into the dish of the plate and immediately insert a stamp. Make sure that the stamp is fully inserted (there is a tab on it centring it in the well, make sure it is inserted)
 4.	Wait for the gel to solidify (10-15 minutes, depending on agar/agarose and room temperature)
 5.	Remove the stamp. 
