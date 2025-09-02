@@ -236,6 +236,9 @@ Preprint: https://www.biorxiv.org/content/10.1101/2024.05.12.593682v2
 
 Paper: https://www.sciencedirect.com/science/article/pii/S2405886625000326?dgcid=author
 
+# Featured in
+https://doi.org/10.3390/md23090353
+
 # Acknolegments
 For testing our methodology and proving its reproducibility, I am grateful to
 Anatoliy Zubritskiy from FRC "Fundamentals for Biotechnology" RAS (Moscow, Russia),
