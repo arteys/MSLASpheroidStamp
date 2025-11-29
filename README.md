@@ -238,6 +238,7 @@ Paper: https://www.sciencedirect.com/science/article/pii/S2405886625000326?dgcid
 
 # Featured in
 https://doi.org/10.3390/md23090353
+https://doi.org/10.3390/md23120456
 
 # Acknolegments
 For testing our methodology and proving its reproducibility, I am grateful to
