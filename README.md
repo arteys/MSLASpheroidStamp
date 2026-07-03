@@ -243,6 +243,8 @@ https://doi.org/10.3390/md23120456
 
 https://doi.org/10.1088/1758-5090/ae63f9
 
+https://doi.org/10.1134/S0006297926600286
+
 # Acknolegments
 For testing our methodology and proving its reproducibility, I am grateful to
 Anatoliy Zubritskiy from FRC "Fundamentals for Biotechnology" RAS (Moscow, Russia),
